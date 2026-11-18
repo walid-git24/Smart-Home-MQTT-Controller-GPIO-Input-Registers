@@ -1,0 +1,1 @@
+# Smart-Home-MQTT-Controller-GPIO-Input-Registers
